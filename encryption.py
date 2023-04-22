@@ -26,4 +26,3 @@ while True:
         break
     else:
         print("正しい暗号化方式を入力してください。")
-
